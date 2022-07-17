@@ -13,7 +13,7 @@ const App: React.FC = () => {
 return (
   <AppContextProvider>
     <div className="app">
-      <span className="heading">Taskify</span>
+      <span className="heading">Taskify Todo</span>
       <InputField />
       <TodoList/>
     </div>
